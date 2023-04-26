@@ -1,3 +1,3 @@
 # very-important-project
 
-project for teaching pull requests1
+project for teaching pull requests.
